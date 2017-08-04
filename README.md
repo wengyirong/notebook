@@ -1,26 +1,7 @@
+<script type="text/javascript" src="http://cdn.mathjax.org/mathjax/latest/MathJax.js?config=default"></script>
 
-```
-graph LR
-A-->B
-```
+<img src="http://www.forkosh.com/mathtex.cgi? \Large x=\frac{-b\pm\sqrt{b^2-4ac}}{2a}">
 
-```
-sequenceDiagram
-A->>B: How are you?
-B->>A: Great!
-```
 
-```
-gantt
-dateFormat YYYY-MM-DD
-section S1
-T1: 2014-01-01, 9d
-section S2
-T2: 2014-01-11, 9d
-section S3
-T3: 2014-01-02, 9d
-```
-
-```math
-E = mc^2
-```
+$$x=\frac{-b\pm\sqrt{b^2-4ac}}{2a}$$
+\\(x=\frac{-b\pm\sqrt{b^2-4ac}}{2a}\\)
